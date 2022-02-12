@@ -2,12 +2,12 @@
    "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "interval_intertitial": 7,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -21,34 +21,97 @@
   ],
    "Theme": [
     {
-      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_1.jpg"
+      "url_theme": "https://i.pinimg.com/originals/df/c3/9b/dfc39ba98126a9d0ed769be91241180f.jpg"
     }, 
      {
-      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_2.jpg"
+      "url_theme": "https://i.pinimg.com/originals/d0/51/1c/d0511c9712f7138f94adeea3dba56f52.jpg"
     },
      {
-      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_3.jpg"
+      "url_theme": "https://i.pinimg.com/originals/0d/ba/f4/0dbaf40a226e23d8535e23b28367eb1f.jpg"
     },
      {
-      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_4.jpg"
+      "url_theme": "https://i.pinimg.com/originals/20/55/ef/2055ef1446740cc0702f5e1c232c5558.jpg"
     },
      {
-      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_5.jpg"
+      "url_theme": "https://i.pinimg.com/originals/9d/94/4f/9d944f77b4346037f9dde87fa75830eb.jpg"
     }, 
     {
-      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_6.jpg"
+      "url_theme": "https://i.pinimg.com/originals/b4/8b/ab/b48bab2bb26879c83981796c696335df.jpg"
     },
      {
-      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_7.jpg"
+      "url_theme": "https://i.pinimg.com/originals/f6/a6/d4/f6a6d4448925858b51c42f70a76c6597.jpg"
     },
      {
-      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_8.jpg"
+      "url_theme": "https://i.pinimg.com/originals/e2/63/fe/e263fe4987fe40e6dcf728161d9c9ec4.jpg"
     },
      {
-      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_9.jpg"
+      "url_theme": "https://i.pinimg.com/originals/3b/4e/f7/3b4ef718828c88e677e0c313b99fbff7.jpg"
     },
      {
-      "url_theme": "https://aliendro.id/uploads/demo/themekeyboard/keyboard_10.png"
+      "url_theme": "https://i.pinimg.com/originals/1c/06/a1/1c06a1d57f53a73754cdea867cb6f5b1.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/22/93/8e/22938ef73c201a92edb3cd5dfdaa942e.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/87/8b/78/878b7835b86b720cf725a5925be82203.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/f0/6e/b8/f06eb839c17232364afe4c4e332eb4bf.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/6e/6f/92/6e6f9254f7dc5df2a010fcca4bb27b02.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/fa/0c/0e/fa0c0eae790af215c2799aa06291f8b2.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/04/4e/74/044e74d003883649063d5a1faa728612.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/88/8e/8d/888e8dc71335b22b20365efac158a459.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/d0/8a/5e/d08a5ec15321418a85b72d2d374515c3.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/a0/fa/fd/a0fafd35ba3c92f0ca363a84476545bc.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/96/a4/d6/96a4d6d22aaae090f0598c5dbc0f8d05.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/6b/3e/cf/6b3ecfe012d80340719ac60d8050c4fd.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/de/16/d6/de16d64a9f52a35e93ee39d2c245e74f.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/e7/a8/c0/e7a8c0e4ec0b481ced31dd128ff5b80c.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/81/62/9d/81629d4bd8a27608129b4b7d4ffa1272.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/9c/2e/56/9c2e56fd72bba28acc19c446772cb36d.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/25/8a/66/258a660760f0ed28cf05906e263bebfb.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/09/78/d9/0978d984b8038e2af5d83e70b9267932.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/f1/32/d6/f132d656daf9dd204f72633bec3ec11c.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/66/85/6b/66856b0f8ae5ea2b84ac862572d55238.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/81/9a/ed/819aed6220f65b7dcee2feb534e75661.jpg"
+    },
+      {
+      "url_theme": "https://i.pinimg.com/originals/a9/e7/bb/a9e7bb0f4d39720c6561748ebb3a2579.jpg"
     }
   ]
 
